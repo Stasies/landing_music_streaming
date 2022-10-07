@@ -5,7 +5,7 @@ export const PageContainer = styled.div<{ img: string }>`
   background: linear-gradient(
     180deg,
     rgba(0, 0, 0, 0) 50vh,
-    rgba(0, 0, 0, 0.9) 100vh
+    rgba(0, 0, 0, 1) 100vh
   );
   &::after {
     content: "";
